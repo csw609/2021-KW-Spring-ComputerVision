@@ -1,0 +1,14 @@
+INPUT(
+./debug/main.o
+./debug/mainframe.o
+./debug/imageform.o
+./debug/kfc.o
+./debug/circleHough.o
+./debug/linearTransform.o
+./debug/aStar.o
+./debug/voronoidgm.o
+./debug/potentialField.o
+./debug/qrc_mainframe.o
+./debug/moc_mainframe.o
+./debug/moc_imageform.o
+);

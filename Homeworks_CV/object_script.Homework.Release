@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/mainframe.o
+./release/imageform.o
+./release/kfc.o
+./release/circleHough.o
+./release/linearTransform.o
+./release/aStar.o
+./release/voronoidgm.o
+./release/potentialField.o
+./release/qrc_mainframe.o
+./release/moc_mainframe.o
+./release/moc_imageform.o
+);
