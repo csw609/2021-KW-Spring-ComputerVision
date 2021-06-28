@@ -9,7 +9,8 @@
 * C++
 * Qt creator 4.14.1
 * Qt 5.15.2 MinGW 64-bit
-* 
+
+
 ## Description 
   - `SW_vision.h`, `SW_vision.cpp` : 직접 작성한 소스 코드
   - `kfc.h`, `kfc.cpp` : 교수님께서 제공해주신 라이브러리  
